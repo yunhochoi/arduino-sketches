@@ -1,4 +1,5 @@
 // Receive with start- and end-markers combined with parsing
+// https://forum.arduino.cc/index.php?topic=288234.60
 
 const byte numChars = 32;
 char receivedChars[numChars];
